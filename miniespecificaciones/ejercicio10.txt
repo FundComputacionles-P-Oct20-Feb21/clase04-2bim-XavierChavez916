@@ -2,8 +2,8 @@
 2.  funcion principal()
 3.      variable, i[0-n]
 4.      variable2, i[0-n]
-6.      variable <-- obtenerValor(2) 
-7.      variable2 <-- obtenerValor(0) 
+6.      variable <-- obtenerValor(2)  // 15
+7.      variable2 <-- obtenerValor(0) // 5
 8.      obtenerSuma(variable, variable2)
 9.  fin funcion principal 
 10. 
@@ -21,3 +21,5 @@
 25.     return m
 23.  fin funcion obtenerValor
 22. Fin
+
+// 20
